@@ -72,3 +72,7 @@ See.ai/
 pip install pytest
 pytest
 ```
+
+## Author
+
+Richmond
